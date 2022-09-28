@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\bin\Debug\net6.0\Soma.exe
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\bin\Debug\net6.0\Soma.deps.json
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\bin\Debug\net6.0\Soma.runtimeconfig.json
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\bin\Debug\net6.0\Soma.dll
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\bin\Debug\net6.0\Soma.pdb
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.AssemblyInfo.cs
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.dll
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\refint\Soma.dll
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.pdb
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\Soma.genruntimeconfig.cache
+C:\Users\SENAI\Documents\kallyane C#\Soma1\Soma\obj\Debug\net6.0\ref\Soma.dll
